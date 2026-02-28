@@ -7,3 +7,5 @@
 สามารถทำให้เราออกกำลังถึงเป้าหมายที่ตั้ง ออกกำลังกายเเล้วเห็นผล
 3)เครื่องมือที่ใช้
 Python GPT Gemini
+4)ตัวอย่างการใช้งาน
+https://drive.google.com/file/d/19EEVcGXMXMDb_B-CEpnA5Z-6hvNo8jKx/view?usp=drivesdk
