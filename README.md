@@ -10,6 +10,8 @@ Python GPT Gemini
 4)ตัวอย่างการใช้งาน
 https://drive.google.com/file/d/19EEVcGXMXMDb_B-CEpnA5Z-6hvNo8jKx/view?usp=drivesdk
 5)วิธีการใช้งาน
+โหลงไฟล์ เกม20.py
+รันโปรเเกรมผ่าน Python main.py
 6)ผู้พัฒนา นายพัชรพล สองสี ม.4/4 เลขที่20
 โรงเรียนบางบ่อวิทยาคม
 ครูผู้สอนครูนฤมล สุนทอง
